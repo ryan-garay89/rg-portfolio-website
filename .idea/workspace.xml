@@ -4,10 +4,11 @@
     <list default="true" id="be53b8d7-0ea5-4fe2-95d3-fd7e053ece26" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/HeaderStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/HeaderStyles.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Hero/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Hero/Hero.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Projects/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/Projects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Technologies/Technologies.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Technologies/Technologies.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TimeLine/TimeLine.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TimeLine/TimeLine.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/GlobalComponents/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/GlobalComponents/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/themes/default.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/themes/default.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1640209616496</updated>
-      <workItem from="1640209617669" duration="4835000" />
+      <workItem from="1640209617669" duration="11603000" />
     </task>
     <servers />
   </component>

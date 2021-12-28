@@ -6,13 +6,14 @@ import { LeftSection } from './HeroStyles';
 
 const Hero = (props) => (
   <Section row nopadding>
-      <LeftSection>
+      <LeftSection style={{}}>
           <SectionTitle main center>
-              Welcome To <br />
-              My Personal Portfolio
+              Welcome! <br />
+              My Name's Ryan
           </SectionTitle>
           <SectionText>
-              I'm a 3rd year computer science major at The University of California, Berkeley, and a rising software Engineer passionate about people & technology.
+              I'm a first-generation college student at The University of California, Berkeley,
+              where I study computer science and creative writing; I'm passionate about people, art, & technology.
           </SectionText>
           <Button onClick={() => window.location = "https://google.com"}>Learn More</Button>
       </LeftSection>
