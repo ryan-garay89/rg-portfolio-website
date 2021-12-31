@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be53b8d7-0ea5-4fe2-95d3-fd7e053ece26" name="Default Changelist" comment="">
+    <list default="true" id="be53b8d7-0ea5-4fe2-95d3-fd7e053ece26" name="Default Changelist" comment="finished up to timeline carousel">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Acomplishments/Acomplishments.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Acomplishments/Acomplishments.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Acomplishments/AcomplishmentsStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Acomplishments/AcomplishmentsStyles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Hero/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Hero/Hero.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Technologies/Technologies.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Technologies/Technologies.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/TimeLine/TimeLine.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TimeLine/TimeLine.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TimeLine/TimeLineStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TimeLine/TimeLineStyles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/constants.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/_document.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_document.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/GlobalComponents/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/GlobalComponents/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/themes/default.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/themes/default.js" afterDir="false" />
     </list>
@@ -48,8 +53,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1640209616496</updated>
-      <workItem from="1640209617669" duration="11603000" />
+      <workItem from="1640209617669" duration="18352000" />
     </task>
+    <task id="LOCAL-00001" summary="finished up to timeline carousel">
+      <created>1640651748577</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640651748577</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,6 +78,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finished up to timeline carousel" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished up to timeline carousel" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

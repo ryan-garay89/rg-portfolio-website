@@ -9,7 +9,7 @@ const Hero = (props) => (
       <LeftSection style={{}}>
           <SectionTitle main center>
               Welcome! <br />
-              My Name's Ryan
+              My Name's Ryan.
           </SectionTitle>
           <SectionText>
               I'm a first-generation college student at The University of California, Berkeley,

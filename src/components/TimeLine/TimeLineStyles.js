@@ -3,25 +3,28 @@ import styled from 'styled-components'
 
 export const CarouselContainer = styled.ul`
   max-width: 1040px;
-  background: #0F1624;
-  padding: 0rem;
-  list-style:none;
+  border-radius: 12px;
+  background: #8b5fcd;
+  padding: 2rem;
+  list-style: none;
   display: flex;
-  justify-content: space-between; 
+  justify-content: space-between;
   /* overflow-x: hidden; */
 
   margin-left: 32px;
-  &:first-of-type{
+
+  &:first-of-type {
     margin-left: 0px;
   }
 
   margin-bottom: 80px;
 
   //remove scrollbar
-  scrollbar-width: none;  
-   &::-webkit-scrollbar {
-     display: none;
-   }
+  scrollbar-width: none;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
 
   @media ${props => props.theme.breakpoints.sm} {
     overflow-x: scroll;
@@ -40,7 +43,7 @@ export const CarouselMobileScrollNode = styled.div`
 `
 
 export const CarouselItem = styled.div`
-  background: #0F1624;
+  background: #8b5fcd;
   border-radius: 3px;
   max-width: 196px;
 
@@ -89,7 +92,7 @@ export const CarouselItemTitle = styled.h4`
 `
 export const CarouselItemImg = styled.svg`
   margin-left: 21px;
-  -webkit-mask-image: linear-gradient(to right, rgba(0,0,0,1), rgba(0,0,0,0));
+  -webkit-mask-image: linear-gradient(to right, rgb(0, 0, 255), rgb(255, 255, 255));
   width: 100%;
 
   @media ${props => props.theme.breakpoints.sm} {

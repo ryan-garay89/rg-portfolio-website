@@ -5,7 +5,6 @@ import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
 const Technologies = () =>  (
-  <div>
     <Section nonpadding id="tech">
         <SectionDivider />
         <SectionTitle main >Technologies</SectionTitle>
@@ -45,7 +44,6 @@ const Technologies = () =>  (
             </ListItem>
         </List>
     </Section>
-  </div>
 );
 
 export default Technologies;
