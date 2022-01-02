@@ -2,18 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be53b8d7-0ea5-4fe2-95d3-fd7e053ece26" name="Default Changelist" comment="finished up to timeline carousel">
+      <change afterPath="$PROJECT_DIR$/public/images/PoliticalSearch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/gitlet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/gitlet1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/gitlet_infinite.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/news_polarization_proj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/numc_infinite_cropped.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/numc_proj.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/political_search_engine.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Acomplishments/Acomplishments.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Acomplishments/Acomplishments.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Acomplishments/AcomplishmentsStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Acomplishments/AcomplishmentsStyles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Hero/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Hero/Hero.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Projects/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/Projects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Projects/ProjectsStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/ProjectsStyles.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Technologies/Technologies.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Technologies/Technologies.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TimeLine/TimeLine.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TimeLine/TimeLine.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TimeLine/TimeLineStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TimeLine/TimeLineStyles.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/constants/constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/constants.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/_document.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_document.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/GlobalComponents/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/GlobalComponents/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/themes/default.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/themes/default.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -45,6 +46,11 @@
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1640209616496</updated>
-      <workItem from="1640209617669" duration="18352000" />
+      <workItem from="1640209617669" duration="25296000" />
     </task>
     <task id="LOCAL-00001" summary="finished up to timeline carousel">
       <created>1640651748577</created>
@@ -82,6 +88,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finished up to timeline carousel" />
     <option name="LAST_COMMIT_MESSAGE" value="finished up to timeline carousel" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/TimeLine/TimeLine.js</url>
+          <line>36</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

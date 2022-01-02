@@ -89,10 +89,11 @@ export const UtilityList = styled.ul`
 `;
 
 export const ExternalLinks = styled.a`
-color:#d4c0c0;
+color: ${(props) => props.notClickable ? '#6b6b6b' : '#d4c0c0'};
 font-size: 1.6rem;
+pointer-events: ${(props) => props.notClickable ? 'none' : 'auto'};
 padding:1rem 1.5rem;
-background: #6b3030;
+background: ${(props) => props.notClickable ? '#808080' : '#6b3030'};
 border-radius: 15px;
 transition: 0.5s;
 &:hover{

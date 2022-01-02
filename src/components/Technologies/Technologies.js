@@ -1,4 +1,5 @@
 import React from 'react';
+import { FaNodeJs } from 'react-icons/fa';
 import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
 import { FiFigma } from 'react-icons/fi';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
@@ -18,27 +19,33 @@ const Technologies = () =>  (
                     <ListTitle>Front-End</ListTitle>
                     <ListParagraph>
                         Experience with: <br />
-                        React.js
+                        React.js <br />
+                        Next.js <br />
+                        Ruby On Rails <br />
+                        jQuery
+                    </ListParagraph>
+                </ListContainer>
+            </ListItem>
+            <ListItem>
+                <FaNodeJs size="3rem" style={{ padding: '3px'}} />
+                <ListContainer>
+                    <ListTitle>Back-End</ListTitle>
+                    <ListParagraph>
+                        Experience with: <br />
+                        Node.js <br />
+                        Next.js <br />
+                        Ruby On Rails <br />
                     </ListParagraph>
                 </ListContainer>
             </ListItem>
             <ListItem>
                 <DiFirebase size="3rem" />
                 <ListContainer>
-                    <ListTitle>Back-End</ListTitle>
+                    <ListTitle>DB Languages</ListTitle>
                     <ListParagraph>
                         Experience with: <br />
-                        Node.js
-                    </ListParagraph>
-                </ListContainer>
-            </ListItem>
-            <ListItem>
-                <FiFigma size="3rem" />
-                <ListContainer>
-                    <ListTitle>UI/UX</ListTitle>
-                    <ListParagraph>
-                        Experience with: <br />
-                        Figma (change icon)
+                        GraphQL <br />
+                        SQL <br />
                     </ListParagraph>
                 </ListContainer>
             </ListItem>
