@@ -19,7 +19,7 @@ const Footer = () => {
         </LinkList>
         <SocialIconsContainer>
             <CompanyContainer>
-                <Slogan>a slogan...</Slogan>
+                <Slogan>"It's easier to ask forgiveness than it is to get permission" - Grace Hopper</Slogan>
             </CompanyContainer>
             <SocialIcons href="https://github.com/ryan-garay89">
                 <AiFillGithub size="3rem" />

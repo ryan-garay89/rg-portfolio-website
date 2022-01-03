@@ -3,6 +3,7 @@ import React, { useState, useRef, useEffect } from 'react';
 import { CarouselButton, CarouselButtonDot, CarouselButtons, CarouselContainer, CarouselItem, CarouselItemImg, CarouselItemText, CarouselItemTitle, CarouselMobileScrollNode } from './TimeLineStyles';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { TimeLineData } from '../../constants/constants';
+import {Slogan} from "../Footer/FooterStyles";
 
 const TOTAL_CAROUSEL_COUNT = TimeLineData.length - 1;
 
@@ -48,7 +49,7 @@ const Timeline = () => {
           <SectionDivider />
           <SectionTitle main>About Me</SectionTitle>
           <SectionText>
-              Milestones, goals, etc...
+              From early childhood I've had an obsession with technology. This spurred my passion for coding in my early years and through my college career, where I was fortunate enough to attend UC Berkeley and land several awesome internships!
           </SectionText>
           <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
               <>
