@@ -10,7 +10,7 @@ const Technologies = () =>  (
         <SectionDivider />
         <SectionTitle main >Technologies</SectionTitle>
         <SectionText>
-            I have experience with a variety of tech stacks, derived from my work in internships and courses at UC Berkeley. I've worked extensively with Ruby On Rails; I am well versed in the MVC framework; and I work with React JS (which powers this site!) frequently and extensively alongside database languages like GraphQL and SQL!
+            I have experience with a variety of tech stacks, derived from my work in internships and courses at UC Berkeley. I've worked extensively with Ruby On Rails; I am well versed in the MVC framework; and I work with React JS (which powers this site!) frequently and extensively.
         </SectionText>
         <List>
             <ListItem>

@@ -49,7 +49,7 @@ const Timeline = () => {
           <SectionDivider />
           <SectionTitle main>About Me</SectionTitle>
           <SectionText>
-              From early childhood I've had an obsession with technology. This spurred my passion for coding in my early years and through my college career, where I was fortunate enough to attend UC Berkeley and land several awesome internships!
+              From early childhood I've had an obsession with technology. This spurred my passion for coding in my early years and through my college career.
           </SectionText>
           <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
               <>

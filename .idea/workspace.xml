@@ -2,16 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be53b8d7-0ea5-4fe2-95d3-fd7e053ece26" name="Default Changelist" comment="finished up to timeline carousel">
+      <change afterPath="$PROJECT_DIR$/public/images/profile_img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileHeader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ProfileBio/ProfileBio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ProfileBio/ProfileBioStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ProfileImage/ProfileImage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ProfileImage/ProfileImageStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/profile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Hero/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Hero/Hero.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/GlobalComponents/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/GlobalComponents/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Technologies/Technologies.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Technologies/Technologies.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TimeLine/TimeLine.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TimeLine/TimeLine.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,6 +55,10 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public/images" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/ProfileBio" />
+      <recent name="$PROJECT_DIR$/src/components/ProfileImage" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -51,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1640209616496</updated>
-      <workItem from="1640209617669" duration="31777000" />
+      <workItem from="1640209617669" duration="37821000" />
     </task>
     <task id="LOCAL-00001" summary="finished up to timeline carousel">
       <created>1640651748577</created>
