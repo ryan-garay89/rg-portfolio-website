@@ -5,7 +5,7 @@ import ProfileHeader from "../components/ProfileHeader/ProfileHeader";
 import ProfileImage from "../components/ProfileImage/ProfileImage";
 import ProfileBio from "../components/ProfileBio/ProfileBio";
 
-function Profile() {
+function Bio() {
     return (
         <Layout>
             <ProfileSection grid id="main">
@@ -18,4 +18,4 @@ function Profile() {
     )
 };
 
-export default Profile;
+export default Bio;

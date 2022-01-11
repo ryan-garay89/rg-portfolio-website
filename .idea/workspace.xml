@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be53b8d7-0ea5-4fe2-95d3-fd7e053ece26" name="Default Changelist" comment="finished up to timeline carousel">
+      <change afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Hero/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Hero/Hero.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/ProfileHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProfileHeader/ProfileHeader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/ProfileStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProfileHeader/ProfileHeaderStyles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ProfileBio/ProfileBio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProfileBio/ProfileBio.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ProfileBio/ProfileBioStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProfileBio/ProfileBioStyles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ProfileImage/ProfileImage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProfileImage/ProfileImage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ProfileImage/ProfileImageStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProfileImage/ProfileImageStyles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Projects/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/Projects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Projects/ProjectsStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/ProjectsStyles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constants/constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/constants.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/profile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/GlobalComponents/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/GlobalComponents/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1640209616496</updated>
-      <workItem from="1640209617669" duration="47458000" />
+      <workItem from="1640209617669" duration="49418000" />
     </task>
     <task id="LOCAL-00001" summary="finished up to timeline carousel">
       <created>1640651748577</created>
