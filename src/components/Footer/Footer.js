@@ -21,13 +21,13 @@ const Footer = () => {
             <CompanyContainer>
                 <Slogan>"It's easier to ask forgiveness than it is to get permission" - Grace Hopper</Slogan>
             </CompanyContainer>
-            <SocialIcons href="https://github.com/ryan-garay89">
+            <SocialIcons href="https://github.com/ryan-garay89" target="_blank">
                 <AiFillGithub size="3rem" />
             </SocialIcons>
-            <SocialIcons href="https://www.linkedin.com/in/ryan-garay-b11462194/">
+            <SocialIcons href="https://www.linkedin.com/in/ryan-garay-b11462194/" target="_blank">
                 <AiFillLinkedin size="3rem" />
             </SocialIcons>
-            <SocialIcons href="https://www.facebook.com/ryan.garay.399">
+            <SocialIcons href="https://www.facebook.com/ryan.garay.399" target="_blank">
                 <AiFillFacebook size="3rem" />
             </SocialIcons>
         </SocialIconsContainer>

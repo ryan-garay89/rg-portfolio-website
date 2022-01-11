@@ -1,21 +1,21 @@
 import React from 'react';
-import { Section, SectionDivider, SectionText, SectionTitle } from '../styles/GlobalComponents';
+import {ProfileSection, Section, SectionDivider, SectionText, SectionTitle} from '../styles/GlobalComponents';
 import {Layout} from "../layout/Layout";
-import ProfileHeader from "../components/Profile/ProfileHeader";
+import ProfileHeader from "../components/ProfileHeader/ProfileHeader";
 import ProfileImage from "../components/ProfileImage/ProfileImage";
 import ProfileBio from "../components/ProfileBio/ProfileBio";
 
 function Profile() {
     return (
         <Layout>
-            <Section grid>
+            <ProfileSection grid id="main">
                 <ProfileHeader />
-                <span style={{visibility: 'hidden'}}/>
+                <span style={{visibility: 'hidden'}} />
                 <ProfileImage/>
                 <ProfileBio/>
-            </Section>
+            </ProfileSection>
         </Layout>
     )
 };
 
-export default Profile
+export default Profile;

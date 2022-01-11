@@ -28,7 +28,7 @@ export const Section = styled.section`
 export const SectionTitle = styled(motion.h2)`
   font-weight: 800;
   font-size: ${(props) => props.main ? '65px' : '56px'};
-  line-height: ${(props) => props.main ? '72px' : '56px'};
+  line-height: ${(props) => props.main ? '72px' : '63px'};
   width: max-content;
   max-width: 100%;
   background: linear-gradient(121.57deg, #FFFFFF 18.77%, rgba(255, 255, 255, 0.66) 60.15%);
@@ -278,5 +278,30 @@ export const LinkIconImg = styled.div`
 
   @media ${(props) => props.theme.breakpoints.sm} {
     height: ${({ large }) => large ? '32px' : '16px'};
+  }
+`
+
+export const ProfileSection = styled.section`
+  display: ${(props) => props.grid ? "grid" : "flex" };
+  flex-direction: ${(props) => props.row ? "row" : "column" };
+  padding: ${(props) => props.nopadding ? "0" : "32px 48px 0" } ;
+  margin: 0 auto;
+  max-width: 1040px;
+  box-sizing: content-box;
+  position: relative;
+  overflow: hidden;
+  grid-template-columns: 1fr 1fr;
+
+  @media ${(props) => props.theme.breakpoints.md} {
+    padding: 24px 48px 0;
+    flex-direction: column;
+  }
+
+  @media ${(props) => props.theme.breakpoints.sm} {
+    padding: ${(props) => props.nopadding ? "0" : "0px 16px 0" } ;
+    display: flex;
+
+    width: calc(100vw - 32px);
+    flex-direction: column;
   }
 `
