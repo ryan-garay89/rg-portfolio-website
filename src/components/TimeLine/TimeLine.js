@@ -5,7 +5,7 @@ import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles
 import { TimeLineData } from '../../constants/constants';
 import {Slogan} from "../Footer/FooterStyles";
 
-const TOTAL_CAROUSEL_COUNT = TimeLineData.length - 1;
+const TOTAL_CAROUSEL_COUNT = TimeLineData.length;
 
 const Timeline = () => {
   const [activeItem, setActiveItem] = useState(0);
@@ -19,7 +19,7 @@ const Timeline = () => {
     e.preventDefault();
 
     if (carouselRef.current) {
-      const scrollLeft = Math.floor(carouselRef.current.scrollWidth * 0.7 * (i / TimeLineData.length));
+      const scrollLeft = Math.floor(carouselRef.current.scrollWidth * .79 * (i / TimeLineData.length));
       
       scroll(carouselRef.current, scrollLeft);
     }
@@ -27,7 +27,7 @@ const Timeline = () => {
 
   const handleScroll = () => {
     if (carouselRef.current) {
-      const index = Math.round((carouselRef.current.scrollLeft / (carouselRef.current.scrollWidth * 0.7)) * TimeLineData.length);
+      const index = Math.round((carouselRef.current.scrollLeft / (carouselRef.current.scrollWidth * .79)) * TimeLineData.length);
 
       setActiveItem(index);
     }
@@ -54,7 +54,7 @@ const Timeline = () => {
           <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
               <>
                   {TimeLineData.map((item, index) => (
-                     <CarouselMobileScrollNode key={index} final={index === TOTAL_CAROUSEL_COUNT}>
+                     <CarouselMobileScrollNode key={index} final={index === TOTAL_CAROUSEL_COUNT - 1}>
                          <CarouselItem
                             index={index}
                             id={`carousel__item-${index}`}

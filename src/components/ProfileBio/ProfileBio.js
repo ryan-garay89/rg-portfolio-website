@@ -3,7 +3,7 @@ import {SectionText, SectionTitle} from "../../styles/GlobalComponents";
 import {BioContainer} from "./ProfileBioStyles";
 
 const ProfileBio = () => (
-    <BioContainer initial={{ x: 500 }} transition={{ ease: "easeInOut", duration: 1 }} animate={{ x: [500, 0] }}>
+    <BioContainer initial={{ x: 500 }} transition={{ ease: "easeInOut", duration: .75 }} animate={{ x: [500, 0] }}>
     <SectionText style={{ fontSize: '17px' }}>
         I was born and raised in San Antonio, Texas, where I lived until I was 18 years old.
         Both of my parents have a high-school education, and come from low-income households, but nonetheless gave me a

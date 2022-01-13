@@ -69,7 +69,7 @@ const Hero = (props) => (
                   )
               })}
           </SectionText>
-          <Button onClick={() => window.location.href = "/profile#main.html"}>Learn More</Button>
+          <Button onClick={() => window.location.href = "/profile#main"}>Learn More</Button>
       </LeftSection>
   </Section>
 );
