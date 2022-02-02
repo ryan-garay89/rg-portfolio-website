@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 import {motion} from "framer-motion";
 
-export const ProfImg = styled(motion.img)`
+export const ProfImg = styled.img`
   width:70%;
   height:80%;
   object-fit: cover;
