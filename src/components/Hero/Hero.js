@@ -32,7 +32,7 @@ const hero_text4 = "passionate about people, art, & technology.";
 const Hero = (props) => (
   <Section row nopadding>
       <LeftSection>
-          <SectionTitle main center initial={{ x: -500 }} transition={{ ease: "easeInOut", duration: 1 }} animate={{ x: [-500, 0] }}>
+          <SectionTitle main center initial={{ x: -500 }} transition={{ ease: "easeInOut", duration: .75 }} animate={{ x: [-500, 0] }}>
               Welcome! <br />
               My Name's Ryan.
           </SectionTitle>

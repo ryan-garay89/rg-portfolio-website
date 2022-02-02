@@ -3,7 +3,7 @@ import {motion} from "framer-motion";
 
 export const BioContainer = styled(motion.div)`
   max-width: 1040px;
-  max-height: 580px;
+  max-height: 525px;
   border-radius: 10px;
   background: #1a1a1a;
   padding: .9rem;
@@ -16,6 +16,6 @@ export const BioContainer = styled(motion.div)`
 
   @media ${(props) => props.theme.breakpoints.md} {
     margin: 20px;
-    max-height: 400px;
+    max-height: 300px;
   }
 `

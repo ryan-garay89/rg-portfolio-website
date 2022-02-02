@@ -3,13 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="be53b8d7-0ea5-4fe2-95d3-fd7e053ece26" name="Default Changelist" comment="finished up to timeline carousel">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/FooterStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/FooterStyles.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Hero/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Hero/Hero.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ProfileBio/ProfileBio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProfileBio/ProfileBio.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ProfileHeader/ProfileHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProfileHeader/ProfileHeader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ProfileImage/ProfileImage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProfileImage/ProfileImage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TimeLine/TimeLine.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TimeLine/TimeLine.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ProfileBio/ProfileBioStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProfileBio/ProfileBioStyles.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +87,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finished up to timeline carousel" />
