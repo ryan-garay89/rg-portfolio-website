@@ -38,6 +38,7 @@ export default class MyDocument extends Document {
             <meta property="og:type" content="website" />
             <meta property="og:url" content="https://ryangaray.com" />
             <meta property="og:image" content="https://ryangaray.com/images/gitlet_infinite.gif" />
+            <meta property="og:description" content="I'm a first-generation college student at The University of California, Berkeley, where I study computer science!" />
         </Head>
         <body>
           <Main />
