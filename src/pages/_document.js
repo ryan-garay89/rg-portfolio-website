@@ -34,6 +34,10 @@ export default class MyDocument extends Document {
             <link rel="preconnect" href="https://fonts.googleapis.com" />
             <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin />
             <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet" />
+            <meta property="og:title" content="Ryan Garay" />
+            <meta property="og:type" content="website" />
+            <meta property="og:url" content="https://ryangaray.com" />
+            <meta property="og:image" content="https://ryangaray.com/images/gitlet_infinite.gif" />
         </Head>
         <body>
           <Main />
