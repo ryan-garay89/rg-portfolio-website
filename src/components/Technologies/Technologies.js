@@ -35,6 +35,8 @@ const Technologies = () =>  (
                         Node.js <br />
                         Next.js <br />
                         Ruby On Rails <br />
+                        Java <br />
+                        AWS Lambda <br />
                     </ListParagraph>
                 </ListContainer>
             </ListItem>
@@ -45,7 +47,9 @@ const Technologies = () =>  (
                     <ListParagraph>
                         Experience with: <br />
                         GraphQL <br />
+                        PostgresQL <br />
                         SQL <br />
+                        AWS RDS <br />
                     </ListParagraph>
                 </ListContainer>
             </ListItem>

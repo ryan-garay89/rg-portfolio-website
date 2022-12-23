@@ -3,7 +3,7 @@ export const projects = [
     title: 'Political Search Engine',
     description: "This Ruby On Rails web application was built alongside three other Berkeley students and is a fully functional search engine. Powered by Google's Civic API, this app allows users to search for U.S. representatives from any region with a fully interactive map. Additionally, users can share opinions in the form of news articles, and can login via Github or Google.",
       image: '/images/political_search_engine.png',
-      tags: ['Ruby On Rails', 'JavaScript', 'Google Civi API', 'HAML'],
+      tags: ['Ruby On Rails', 'JavaScript', 'Google Civic API', 'HAML'],
     source: '',
     visit: 'https://peaceful-forest-42901.herokuapp.com/',
     suffix: '',
@@ -43,6 +43,17 @@ export const projects = [
     id: 3,
     notClickable: true,
   },
+  {
+    title: 'BRSP Web App',
+    description: "The Berkeley Reentry Student Program (BRSP) is a UC Berkeley org centered around helping non-traditional students re-enter the academic space. The web app requested and built by our team of five engineers allows BRSP students to check-in to the on-campus study space and access crucial program resources. The custom database we designed holds student and admin data, such as ID and email, and has been integrated with GoogleOauth2 for easy login. ",
+    image: 'images/Seal_of_University_of_California,_Berkeley.svg.png',
+    tags: ['Ruby On Rails', 'PostgresQL'],
+    source: '',
+    suffix: '',
+    visit: 'https://github.com/ryan-garay89/berkeley-reentry-student-program',
+    id: 4,
+    notClickable: false,
+  },
 ];
 
 export const TimeLineData = [
@@ -50,5 +61,6 @@ export const TimeLineData = [
   { year: 2019, text: 'Accepted to UC Berkeley', },
   { year: 2020, text: 'Software Dev Intern @ CGI Inc. / Self-Taught React & MVC Framework', },
   { year: 2021, text: 'Software Eng Intern @ Coursera', },
-  { year: 2022, text: 'Accepted SDE Internship @ Amazon', },
+  { year: 2022, text: 'SDE Intern @ Amazon', },
+  { year: 2022, text: 'Accepted Full-Time Offer @ Amazon', },
 ];

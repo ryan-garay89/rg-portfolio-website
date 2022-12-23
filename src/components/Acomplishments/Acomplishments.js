@@ -4,10 +4,10 @@ import {Section, SectionDivider, SectionText, SectionTitle} from '../../styles/G
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
-  { number: 2, text: 'Completed Research Projects', },
-  { number: 5, text: 'Years Programming Experience'},
-  { number: 6, text: 'Months Onsite Experience', },
-  { number: 70, text: 'Completed Academic Units', },
+  { number: 3, text: 'Completed Internships', },
+  { number: 6, text: 'Years Programming Experience'},
+  { number: 9, text: 'Months Onsite Experience', },
+  { number: 90, text: 'Completed Academic Units', },
 ];
 
 const Acomplishments = () => (
